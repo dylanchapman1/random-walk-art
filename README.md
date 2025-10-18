@@ -11,10 +11,10 @@ This project generates unique abstract artwork by simulating a random walk acros
 Here are some examples generated with this algorithm:
 
 This is a random walk with 1000 steps
-![Random Walk Output 1](random_walk_output.png)
+![Random Walk Output 1](random_tiny.png)
 
 This is a random walk with 200 million steps
-![Random Walk Output 2](random_20mil.png)
+![Random Walk Output 2](random_large.png)
 
 *Each image is unique and generated through millions of random steps*
 
